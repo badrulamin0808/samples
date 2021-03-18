@@ -2,7 +2,6 @@ package samples.demo;
 
 public class Location {
 	private int height;
-	private String name;
 
 	public void print() {
 		System.out.println("height");
